@@ -191,3 +191,332 @@
 2020-11-25 17:13:33,071 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-11-25 17:13:33,071 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2020-11-25 17:13:33,072 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 17:29:01,792 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-11-25 17:30:48,817 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - dotGitDirectory C:\Users\wwwkd\git\spring-petclinic\.git
+2020-11-25 17:30:49,095 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.user.name with value Jangsukwoo
+2020-11-25 17:30:49,096 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.user.email with value wwwkdtjrdn@naver.com
+2020-11-25 17:30:49,137 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.branch with value main
+2020-11-25 17:30:49,139 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --always = true
+2020-11-25 17:30:49,139 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --dirty = -dirty
+2020-11-25 17:30:49,140 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --abbrev = 7
+2020-11-25 17:30:49,148 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-11-25 17:30:49,173 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-11-25 17:30:49,175 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [ab9135ad9bbc8631221caf0a7ee3eadd0561311d]
+2020-11-25 17:30:49,359 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.describe with value ab9135a-dirty
+2020-11-25 17:30:49,360 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.describe-short with value ab9135a-dirty
+2020-11-25 17:30:49,361 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id with value ab9135ad9bbc8631221caf0a7ee3eadd0561311d
+2020-11-25 17:30:49,361 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.abbrev with value ab9135a
+2020-11-25 17:30:49,415 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.dirty with value true
+2020-11-25 17:30:49,417 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.user.name with value Dave Syer
+2020-11-25 17:30:49,418 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.user.email with value dsyer@vmware.com
+2020-11-25 17:30:49,419 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.message.full with value Upgrade to Spring Boot 2.4.0
+2020-11-25 17:30:49,419 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.message.short with value Upgrade to Spring Boot 2.4.0
+2020-11-25 17:30:49,420 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.time with value 2020-11-24T19:44:41+0900
+2020-11-25 17:30:49,421 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.remote.origin.url with value https://github.com/Jangsukwoo/spring-petclinic.git
+2020-11-25 17:30:49,437 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.tags with value 
+2020-11-25 17:30:49,447 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [ab9135ad9bbc8631221caf0a7ee3eadd0561311d]
+2020-11-25 17:30:49,449 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-11-25 17:30:49,451 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-11-25 17:30:49,469 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.closest.tag.name with value 
+2020-11-25 17:30:49,479 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [ab9135ad9bbc8631221caf0a7ee3eadd0561311d]
+2020-11-25 17:30:49,481 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-11-25 17:30:49,482 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-11-25 17:30:49,491 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.closest.tag.commit.count with value 
+2020-11-25 17:30:49,499 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.total.commit.count with value 721
+2020-11-25 17:31:10,053 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.local.branch.ahead with value 0
+2020-11-25 17:31:10,054 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.local.branch.behind with value 0
+2020-11-25 17:31:10,060 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.time with value 2020-11-25T17:31:10+0900
+2020-11-25 17:31:10,061 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.version with value 2.4.0.BUILD-SNAPSHOT
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.host with value DESKTOP-FAQJB7D
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.tags in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.closest.tag.commit.count in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.version in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.user.name in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.abbrev in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.branch in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.host in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.describe-short in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.total.commit.count in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.describe in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.user.email in results
+2020-11-25 17:31:10,063 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.message.short in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.user.email in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.closest.tag.name in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.local.branch.ahead in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.time in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.local.branch.behind in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.time in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.user.name in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.dirty in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.message.full in results
+2020-11-25 17:31:10,064 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.remote.origin.url in results
+2020-11-25 17:31:10,067 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Reading existing properties file [C:\Users\wwwkd\git\spring-petclinic\target\classes\git.properties] (for module petclinic)...
+2020-11-25 17:31:10,077 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing properties file to [C:\Users\wwwkd\git\spring-petclinic\target\classes\git.properties] (for module petclinic)...
+2020-11-25 17:31:12,328 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\wwwkd\git\spring-petclinic/src/main/less
+2020-11-25 17:31:12,329 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing the mojo: 
+2020-11-25 17:31:12,332 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Wro4j Model path: C:\Users\wwwkd\git\spring-petclinic\src\main\wro\wro.xml
+2020-11-25 17:31:12,332 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - targetGroups: null
+2020-11-25 17:31:12,333 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - minimize: true
+2020-11-25 17:31:12,333 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreMissingResources: null
+2020-11-25 17:31:12,334 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - parallelProcessing: false
+2020-11-25 17:31:12,336 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - buildDirectory: C:\Users\wwwkd\git\spring-petclinic\target
+2020-11-25 17:31:12,398 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - destinationFolder: C:\Users\wwwkd\git\spring-petclinic\target
+2020-11-25 17:31:12,398 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - cssDestinationFolder: C:\Users\wwwkd\git\spring-petclinic\target\classes\static\resources\css
+2020-11-25 17:31:20,712 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The following groups will be processed: [petclinic]
+2020-11-25 17:31:20,713 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: C:\Users\wwwkd\git\spring-petclinic\target\classes\static\resources\css
+2020-11-25 17:31:20,714 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.css
+2020-11-25 17:31:27,726 [Worker-6: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - Less warnings are:
+2020-11-25 17:31:27,739 [Worker-6: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - 10:1 Cannot link source map. Css result location is not know and could not be deduced from input less source..
+2020-11-25 17:31:27,894 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - file size: petclinic.css -> 152399 bytes
+2020-11-25 17:31:27,899 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\wwwkd\git\spring-petclinic\target\classes\static\resources\css\petclinic.css (152399 bytes)
+2020-11-25 17:31:27,900 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: C:\Users\wwwkd\git\spring-petclinic\target
+2020-11-25 17:31:27,900 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.js
+2020-11-25 17:31:28,848 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 17:31:28,848 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 17:31:28,852 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 17:31:28,944 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 17:31:29,017 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 17:31:29,021 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 17:31:29,021 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 17:31:29,022 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 17:31:31,378 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 17:31:31,378 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 17:31:31,397 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 17:31:31,493 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 17:31:31,540 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 17:31:31,549 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 17:31:31,549 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 17:31:31,554 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 17:43:59,370 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 17:43:59,370 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 17:43:59,373 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-25 17:43:59,384 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 17:43:59,384 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 17:43:59,386 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 17:43:59,387 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 17:43:59,387 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 18:27:44,729 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:27:44,729 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:27:44,739 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 18:27:44,764 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 18:27:44,786 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 18:27:44,788 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:27:44,788 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:27:44,788 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 18:28:44,880 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:28:44,880 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:28:44,890 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 18:28:44,937 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 18:28:44,960 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 18:28:44,961 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:28:44,961 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:28:44,962 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 18:29:22,804 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:29:22,804 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:29:22,814 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 18:29:22,847 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 18:29:22,870 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 18:29:22,872 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:29:22,872 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:29:22,874 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 18:30:01,553 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:30:01,554 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:30:01,564 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 18:30:01,583 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 18:30:01,603 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 18:30:01,605 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:30:01,605 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:30:01,605 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 18:30:05,887 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:30:05,887 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:30:05,894 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 18:30:05,916 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 18:30:05,939 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 18:30:05,941 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:30:05,941 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:30:05,942 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 18:30:10,255 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:30:10,255 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:30:10,266 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 18:30:10,298 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 18:30:10,345 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 18:30:10,347 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:30:10,347 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:30:10,348 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 18:30:56,275 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:30:56,275 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:30:56,283 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 18:30:56,311 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 18:30:56,332 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 18:30:56,335 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 18:30:56,335 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 18:30:56,335 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:06:51,705 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:06:51,706 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:06:51,716 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:06:51,793 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:06:51,818 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:06:51,823 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:06:51,823 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:06:51,823 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:09:12,888 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:09:12,888 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:09:12,899 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:09:12,959 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:09:12,980 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:09:12,982 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:09:12,982 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:09:12,983 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:09:46,788 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:09:46,788 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:09:46,798 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:09:46,854 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:09:46,874 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:09:46,876 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:09:46,877 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:09:46,877 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:10:04,661 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:10:04,662 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:10:04,673 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:10:04,722 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:10:04,747 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:10:04,751 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:10:04,751 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:10:04,751 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:10:58,308 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:10:58,308 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:10:58,316 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:10:58,339 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:10:58,360 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:10:58,362 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:10:58,362 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:10:58,362 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:11:06,662 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:11:06,662 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:11:06,671 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:11:06,702 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:11:06,724 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:11:06,726 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:11:06,726 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:11:06,727 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:12:20,344 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:12:20,344 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:12:20,357 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:12:20,388 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:12:20,411 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:12:20,412 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:12:20,412 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:12:20,413 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:12:43,130 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:12:43,131 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:12:43,143 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:12:43,168 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:12:43,188 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:12:43,190 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:12:43,190 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:12:43,190 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:12:45,329 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:12:45,330 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:12:45,339 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:12:45,365 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:12:45,411 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:12:45,416 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:12:45,416 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:12:45,416 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:14:34,382 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:14:34,383 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:14:34,383 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:14:34,383 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:14:34,385 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:14:34,385 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:14:34,385 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:15:08,959 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:15:08,959 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:15:08,959 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:15:08,960 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:15:08,961 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:15:08,961 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:15:08,961 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:15:15,231 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:15:15,232 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:15:15,232 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:15:15,233 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:15:15,234 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:15:15,235 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:15:15,235 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:15:32,847 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:15:32,847 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:15:32,847 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:15:32,847 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:15:32,849 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:15:32,849 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:15:32,849 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:16:03,384 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:16:03,384 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:16:03,384 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:16:03,385 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:16:03,387 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:16:03,387 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:16:03,387 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:16:12,837 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:16:12,837 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:16:12,837 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:16:12,837 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:16:12,839 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:16:12,839 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:16:12,839 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:17:03,359 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:17:03,359 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:17:03,359 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:17:03,360 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:17:03,361 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:17:03,362 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:17:03,362 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:17:48,782 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:17:48,783 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:17:48,783 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:17:48,783 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:17:48,785 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:17:48,785 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:17:48,786 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:18:19,609 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:18:19,610 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:18:19,611 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:18:19,614 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:18:19,616 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:18:19,616 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:18:19,616 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:18:51,977 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:18:51,977 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:18:51,977 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:18:51,978 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:18:51,979 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:18:51,979 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:18:51,979 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:18:53,310 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:18:53,310 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:18:53,310 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:18:53,311 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:18:53,313 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:18:53,313 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:18:53,313 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:18:59,380 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:18:59,381 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:18:59,381 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:18:59,382 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:18:59,384 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:18:59,384 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:18:59,384 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:19:59,580 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:19:59,580 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:19:59,580 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:19:59,581 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:19:59,583 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:19:59,584 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:19:59,584 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 19:22:32,339 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:22:32,339 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:22:32,340 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:22:32,340 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-25 19:22:32,342 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
