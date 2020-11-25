@@ -530,3 +530,107 @@
 2020-11-25 19:29:41,094 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2020-11-25 19:29:41,094 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
 2020-11-25 19:31:12,058 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-11-25 19:52:39,448 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - dotGitDirectory C:\Users\wwwkd\git\spring-petclinic\.git
+2020-11-25 19:52:39,854 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.user.name with value Jangsukwoo
+2020-11-25 19:52:39,856 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.user.email with value wwwkdtjrdn@naver.com
+2020-11-25 19:52:39,911 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.branch with value main
+2020-11-25 19:52:39,913 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --always = true
+2020-11-25 19:52:39,913 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --dirty = -dirty
+2020-11-25 19:52:39,915 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --abbrev = 7
+2020-11-25 19:52:39,926 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-11-25 19:52:39,964 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-11-25 19:52:39,965 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [ab9135ad9bbc8631221caf0a7ee3eadd0561311d]
+2020-11-25 19:52:40,170 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.describe with value ab9135a-dirty
+2020-11-25 19:52:40,170 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.describe-short with value ab9135a-dirty
+2020-11-25 19:52:40,171 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id with value ab9135ad9bbc8631221caf0a7ee3eadd0561311d
+2020-11-25 19:52:40,172 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.abbrev with value ab9135a
+2020-11-25 19:52:40,225 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.dirty with value true
+2020-11-25 19:52:40,228 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.user.name with value Dave Syer
+2020-11-25 19:52:40,228 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.user.email with value dsyer@vmware.com
+2020-11-25 19:52:40,229 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.message.full with value Upgrade to Spring Boot 2.4.0
+2020-11-25 19:52:40,229 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.message.short with value Upgrade to Spring Boot 2.4.0
+2020-11-25 19:52:40,230 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.time with value 2020-11-24T19:44:41+0900
+2020-11-25 19:52:40,232 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.remote.origin.url with value https://github.com/Jangsukwoo/spring-petclinic.git
+2020-11-25 19:52:40,255 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.tags with value 
+2020-11-25 19:52:40,275 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [ab9135ad9bbc8631221caf0a7ee3eadd0561311d]
+2020-11-25 19:52:40,279 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-11-25 19:52:40,280 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-11-25 19:52:40,295 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.closest.tag.name with value 
+2020-11-25 19:52:40,308 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [ab9135ad9bbc8631221caf0a7ee3eadd0561311d]
+2020-11-25 19:52:40,310 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-11-25 19:52:40,312 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-11-25 19:52:40,320 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.closest.tag.commit.count with value 
+2020-11-25 19:52:40,331 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.total.commit.count with value 721
+2020-11-25 19:52:41,194 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.local.branch.ahead with value 0
+2020-11-25 19:52:41,194 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.local.branch.behind with value 0
+2020-11-25 19:52:41,202 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.time with value 2020-11-25T19:52:41+0900
+2020-11-25 19:52:41,202 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.version with value 2.4.0.BUILD-SNAPSHOT
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.host with value DESKTOP-FAQJB7D
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.tags in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.closest.tag.commit.count in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.version in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.user.name in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.abbrev in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.branch in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.host in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.describe-short in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.total.commit.count in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.describe in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.user.email in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id in results
+2020-11-25 19:52:41,203 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.message.short in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.user.email in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.closest.tag.name in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.local.branch.ahead in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.time in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.local.branch.behind in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.time in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.user.name in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.dirty in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.message.full in results
+2020-11-25 19:52:41,204 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.remote.origin.url in results
+2020-11-25 19:52:41,207 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Reading existing properties file [C:\Users\wwwkd\git\spring-petclinic\target\classes\git.properties] (for module petclinic)...
+2020-11-25 19:52:41,208 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Properties file [C:\Users\wwwkd\git\spring-petclinic\target\classes\git.properties] is up-to-date (for module petclinic)...
+2020-11-25 19:52:43,234 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\wwwkd\git\spring-petclinic/src/main/less
+2020-11-25 19:52:43,234 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing the mojo: 
+2020-11-25 19:52:43,238 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Wro4j Model path: C:\Users\wwwkd\git\spring-petclinic\src\main\wro\wro.xml
+2020-11-25 19:52:43,239 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - targetGroups: null
+2020-11-25 19:52:43,242 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - minimize: true
+2020-11-25 19:52:43,243 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreMissingResources: null
+2020-11-25 19:52:43,243 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - parallelProcessing: false
+2020-11-25 19:52:43,244 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - buildDirectory: C:\Users\wwwkd\git\spring-petclinic\target
+2020-11-25 19:52:43,262 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - destinationFolder: C:\Users\wwwkd\git\spring-petclinic\target
+2020-11-25 19:52:43,262 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - cssDestinationFolder: C:\Users\wwwkd\git\spring-petclinic\target\classes\static\resources\css
+2020-11-25 19:52:49,392 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The following groups will be processed: [petclinic]
+2020-11-25 19:52:49,393 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: C:\Users\wwwkd\git\spring-petclinic\target\classes\static\resources\css
+2020-11-25 19:52:49,393 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.css
+2020-11-25 19:52:53,538 [Worker-22: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - Less warnings are:
+2020-11-25 19:52:53,547 [Worker-22: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - 10:1 Cannot link source map. Css result location is not know and could not be deduced from input less source..
+2020-11-25 19:52:53,577 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - file size: petclinic.css -> 152399 bytes
+2020-11-25 19:52:53,582 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\wwwkd\git\spring-petclinic\target\classes\static\resources\css\petclinic.css (152399 bytes)
+2020-11-25 19:52:53,582 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: C:\Users\wwwkd\git\spring-petclinic\target
+2020-11-25 19:52:53,583 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.js
+2020-11-25 19:52:53,985 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:52:53,985 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:52:53,986 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 19:52:54,022 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 19:52:54,066 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 19:52:54,070 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 19:52:54,070 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 19:52:54,070 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 20:30:21,687 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 20:30:21,688 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 20:30:21,700 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 20:30:21,731 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 20:30:21,755 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 20:30:21,757 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 20:30:21,757 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 20:30:21,757 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
+2020-11-25 20:30:53,576 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 20:30:53,578 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 20:30:53,597 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-25 20:30:53,662 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 39 resources
+2020-11-25 20:30:53,690 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-11-25 20:30:53,694 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-25 20:30:53,695 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-11-25 20:30:53,696 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\wwwkd\git\spring-petclinic\src\test\resources
